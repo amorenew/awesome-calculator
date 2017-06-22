@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Awesome Calculator</string>
+    <string name="grid_layout_header_text">Screen</string>
 </resources>
