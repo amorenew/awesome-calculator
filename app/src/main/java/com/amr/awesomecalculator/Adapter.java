@@ -8,9 +8,6 @@ import android.view.ViewGroup;
 
 import java.util.ArrayList;
 
-/**
- * Created by Owner on 7/20/2017.
- */
 
 public class Adapter extends RecyclerView.Adapter<TextViewHolder> {
 
