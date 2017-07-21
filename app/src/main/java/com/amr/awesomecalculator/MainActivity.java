@@ -21,10 +21,8 @@ public class MainActivity extends AppCompatActivity {
 
 
         String[] text = new String[]{
-                "7", "8", "9", "Del", "this", "4", "5", "6", "*", "/",
-                "1", "2", "3", "+", "-", "=", "0", ".", "%", "e",
-                "(", ")", "ln", "pi", "7", "7", "7", "7", "7", "7",
-                "7", "7", "7", "7", "7"
+                "7", "8", "9", "Del", "AC", "4", "5", "6", "*", "/",
+                "1", "2", "3", "+", "-", "0", ".", "%", "e", "="
         };
 
         rvCalcButtons = (RecyclerView) findViewById(R.id.rvCalcButtons);
